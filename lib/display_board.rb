@@ -1,6 +1,6 @@
 # Define display_board that accepts a board and prints
 # out the current state.
-Def display_board(boards)
+def display_board(boards)
 puts "#{boards[0]}|#{boards[1]}|#{boards[2]}"
 puts "-----------"
 puts "#{boards[3]}|#{boards[4]}|#{boards[5]}"
